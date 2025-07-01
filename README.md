@@ -70,7 +70,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
 </div>
 
 ### Design & 3D
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Tou&theme=dracula&hide_border=false&border_radius=15" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Anas-Tou&theme=dracula&hide_border=false&border_radius=15" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -114,6 +114,9 @@
 </div>
 
 ---
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Hacker" width="350" />
+</div>
 
 ## 📈 Activity Graph
 
