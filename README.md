@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Hacker" width="350" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2RpeHVkMzRoNmdsbnlqamV1aG9paGJnaXMyaTd5aTVteHFhMDUzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Hacker" width="300" />
 
 🎓 **Data Science Student** passionate about turning data into insights  
 📍 **Location:** Fes, Morocco  
