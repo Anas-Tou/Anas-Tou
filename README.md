@@ -95,12 +95,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anas-Tou&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
@@ -115,6 +109,8 @@
   <a href="https://github.com/Anas-Tou" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://anastourari.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </div>
 
 ---
@@ -122,13 +118,12 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Tou&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=false" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anas-Tou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **✨ "Data is the new oil, but insights are the refined fuel that powers innovation." ✨**
 </div>
