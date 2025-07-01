@@ -8,13 +8,15 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2RpeHVkMzRoNmdsbnlqamV1aG9paGJnaXMyaTd5aTVteHFhMDUzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Hacker" width="300" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2RpeHVkMzRoNmdsbnlqamV1aG9paGJnaXMyaTd5aTVteHFhMDUzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Hacker" width="250" height="200" />
 
 🎓 **Data Science Student** passionate about turning data into insights  
 📍 **Location:** Fes, Morocco  
 💡 **Interests:** Machine Learning, Web Development, and Cloud Technologies  
 🌱 **Currently Learning:** Advanced ML algorithms and cloud architecture  
 🎯 **Goals:** Building impactful data-driven solutions
+
+<br clear="right"/>
 
 ---
 
@@ -97,8 +99,6 @@
 
 ---
 
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -113,6 +113,7 @@
   </a>
   <a href="https://anastourari.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -126,6 +127,7 @@
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anas-Tou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **✨ "Data is the new oil, but insights are the refined fuel that powers innovation." ✨**
 </div>
